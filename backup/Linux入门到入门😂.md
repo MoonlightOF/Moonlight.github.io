@@ -48,7 +48,7 @@ Linux 的诞生，源于一位年轻程序员对自由和创新的追求。1991 
 
 
 
-![](https://p3-search.byteimg.com/obj/tos-cn-i-qvj2lq49k0/7735af703a3e4a31a75c6a5a4ea89d0b)
+![Image](https://github.com/user-attachments/assets/e649905c-40af-444b-85ce-856e18b267d4)
 
 经过几十年的发展，Linux 凭借其卓越的特性，在众多领域都占据了重要地位，成为了推动信息技术发展的重要力量。
 
